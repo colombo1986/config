@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related with production environment APIs "
   contactDetails:
-    name: "Sandra Harald - Product Owner"
+    name: "Cristopher Vergara - Product Owner"
     email: "cristopher.vergara.colombo@outlook.com"
   onCallSupport:
     - (617) 432-2356
