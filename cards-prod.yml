@@ -1,5 +1,5 @@
 build:
-  version: "1.0"
+  version: "1.1"
 
 cards:
   message: "Welcome to EazyBank cards related with production environment APIs "
@@ -7,5 +7,5 @@ cards:
     name: "Cristopher Vergara - Product Owner"
     email: "cristopher.vergara.colombo@outlook.com"
   onCallSupport:
-    - (617) 432-2356
-    - (936) 564-8721
+    - (618) 432-2356
+    - (936) 564-8521
