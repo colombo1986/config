@@ -1,11 +1,11 @@
 build:
-  version: "1.1"
+  version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related with production environment APIs "
+  message: "Hey, welcome to EazyBank cards related prod APIs"
   contactDetails:
-    name: "Cristopher Vergara - Product Owner"
-    email: "cristopher.vergara.colombo@outlook.com"
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@eazybank.com"
   onCallSupport:
-    - (618) 432-2356
-    - (111) 111-3333
+    - (617) 432-2356
+    - (936) 564-8721
