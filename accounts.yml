@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "7.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
+  message: "Welcome to EazyBank accounts related docker APIs default yml "
   contactDetails:
     name: "Cristopher Vergara - Developer"
     email: "cris@eazybank.com"
