@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related local docker APIs "
   contactDetails:
-    name: "Dragos Lech - Developer"
-    email: "dragos@eazybank.com"
+    name: "Cris Colombo - Developer"
+    email: "colombo@eazybank.com"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1111
