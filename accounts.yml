@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs default yml "
   contactDetails:
-    name: "Cris Colombo - Developer"
+    name: "Cris Vergara - Developer"
     email: "colombo@eazybank.com"
   onCallSupport:
     - (111) 555-1234
